@@ -1,0 +1,1 @@
+print "On line 2, there's a syntax error where ')' should be replaced with a '}'."
